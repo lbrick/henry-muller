@@ -1,0 +1,9 @@
+main:
+  - title: "Early Life & Background"
+    url: /early-life/
+  - title: "Military Service & Medical Training"
+    url: /military-service-training/
+  - title: "Military Career"
+    url: /military-career/
+  # - title: "About"
+  #   url: /about/
