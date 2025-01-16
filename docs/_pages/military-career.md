@@ -14,3 +14,5 @@ Following the successful landings, Müller and the 3rd Army advanced across Fran
 By the fall of 1944, Müller and his unit had reached the German border. The brutal winter conditions and constant enemy resistance made the frontline difficult for both soldiers and medical personnel. Müller continued to serve, providing medical care in increasingly hazardous environments.
 
 It was during this period, while stationed near the German border, that Müller was approached by Major John Barnes of the Office of Strategic Services (OSS). Barnes, who had been monitoring Müller’s work as a medic, suggested that Müller’s unique background—his German heritage and fluency in both German and English—made him an ideal candidate for a covert mission behind enemy lines.
+
+Henry was hesitant at first. he wasn’t a spy or a saboteur—he was a medic. But the officer insisted that his German heritage, fluency in the language, and ability to stay calm under pressure made Henry the ideal candidate.
